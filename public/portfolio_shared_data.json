@@ -1,16 +1,16 @@
 {
     "basic_info": {
       "name": "iAmAndrewCarroll",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Communication & Relationship Artist" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/iamandrewcarroll",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/iamandrewcarroll",
           "class": "fab fa-instagram"
         }
       ],
