@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "iAmAndrewCarroll",
-      "titles": [ "Communication & Relationship Artist" ],
+      "titles": [ "Light Healer,", " Truth Dealer" ],
       "social": [
         {
           "name": "github",
@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/iamandrewcarroll",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/iamandrewcarroll",
+          "class": "fab fa-facebook"
         }
       ],
       "image": "profilepic.png"
