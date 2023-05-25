@@ -11,14 +11,16 @@
     },
     "projects": [
       {
-        "title": "Gallery of Horns",
+        "title": "City Explorer",
         "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application sorts this and that based on a specific criteria.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p2.jpg",
+          "images/portfolio/animal-shelter/p3.png"
+
         ],
-        "url": "",
+        "url": "https://github.com/iAmAndrewCarroll/city-explorer",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +37,15 @@
         ]
       },
       {
-        "title": "Axé All Day",
+        "title": "Duck Dodgers",
         "startDate": "2023",
-        "description": "Personal project for movement documentation and engagement in conscious community.",
+        "description": "Into the 21st and a half century...I think.",
         "images": [
           "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+          "images/portfolio/photography/p2.jpg",
+          "images/portfolio/photography/p3.png"
+          ],
+        "url": "https://github.com/iAmAndrewCarroll/odd-duck",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +58,15 @@
         ]
       },
       {
-        "title": "Chocolate Pizza",
+        "title": "Horned Beast",
         "startDate": "2023",
-        "description": "One of the first apps I was working on at Code Fellows.",
+        "description": "Code Fellows Project.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p2.jpg",
+          "images/portfolio/adventure/p3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/iAmAndrewCarroll/gallery-of-horns",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
